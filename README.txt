@@ -5,3 +5,6 @@ My first Git project.
 
 This section was added in the feature-update branch.
 # devops-lab1
+## New Feature
+
+This section was added in the feature-update branch.
